@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Journal"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:id="@+id/journal_fragment"/>
+
+    <item
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:id="@+id/profile_fragment"/>
+
+    <item
+        android:title="Store"
+        android:icon="@drawable/ic_baseline_local_grocery_store_24"
+        android:id="@+id/store_fragment"/>
+
+</menu>
